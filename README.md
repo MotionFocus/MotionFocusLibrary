@@ -4,7 +4,7 @@ A Field Oriented Control (FOC) library for precise motor control applications, a
 
 ## Overview
 
-MotionFocus is a specialized motor control solution that provides efficient and accurate control of BLDC motors. Our implementation focuses on reliability, performance, and ease of integration for various motion control applications.
+MotionFocus is a specialized motor control solution that provides efficient and accurate control of BLDC motors. Our implementation focuses on reliability, performance, and ease of integration for various motion control applications. This library is a modified version of the Arduino SimpleFOC library (https://github.com/simplefoc/Arduino-FOC/tree/master?tab=readme-ov-file)
 
 ## Key Features
 
