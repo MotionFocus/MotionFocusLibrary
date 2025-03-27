@@ -2,7 +2,7 @@
 
 We've all been there - excited to start a robotics project, only to get stuck wiring up motor controllers, debugging connections, and configuring electronics before even testing our first movement.
 
-Motion Focus changes that. We've built a BLDC motor with all the essential electronics seamlessly integrated, cutting down your prototyping time dramatically.
+Motion Focus changes that. We've built a BLDC motor with Field oriented controll and all the essential electronics seamlessly integrated, cutting down your prototyping time dramatically.
 
 Simply connect the motor to a power source, upload this library to configure it, and start sending commands over Wi-Fi, Bluetooth, UART, or USB-C. 
 
