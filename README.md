@@ -1,6 +1,12 @@
 # MotionFocus Library
 
-A Field Oriented Control (FOC) library for precise motor control applications, adapted from the Arduino SimpleFOC library.
+We've all been there - excited to start a robotics project, only to get stuck wiring up motor controllers, debugging connections, and configuring electronics before even testing our first movement.
+
+Motion Focus changes that. We've built a BLDC motor with all the essential electronics seamlessly integrated, cutting down your prototyping time dramatically.
+
+Simply connect the motor to a power source, upload this library to configure it, and start sending commands over Wi-Fi, Bluetooth, UART, or USB-C. 
+
+No more wiring headaches—just plug, configure, and play!
 
 ## Overview
 
